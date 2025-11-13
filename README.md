@@ -149,5 +149,5 @@ a maintainer tree)
     - add a `Bug:` tag with the Android bug (required for android-specific features)
 
 
-- Latest Kernel Source - https://github.com/MotorolaMobilityLLC/kernel-msm/tree/android-14-release-u2uans34.72-43-1-8
+- Latest Kernel Source - https://github.com/MotorolaMobilityLLC/kernel-msm/tree/android-14-release-u1tcs34.22-64-19-4-6
 
